@@ -1,100 +1,17 @@
-# Repositorio-de-git-e-GITHUB
- JNJJBLU ADDVLJBÇTZDCKKBKHF
- JBJHBDHB\SBIUUGDGD
- DKVIL\SUHVISH
- KDHABI\DGGUUSHOU
- KJVBVOSDHVKJSJDY
- LSFFVIU\SDDVISB
- FFBBSFBF
- F
- BSFB
- FB
+# Repositorio-de-git-e-github
 
- F
- FSF
- F
- F
- S
- SFB
- FSFB
- AFS
- Bsf
- basf
-
- dgn
- fd
- da
-
- df
- bdFF
- BF
- BBsf
- bdn
- ff
- saff
- sf
- fsbsv
- v
- sbsfbsfsfbss
- n
- \sffb
- s
-
- sfb
-
- bdd
- b
- db
- f
- bf
- bsf
- b
- g
- sf
-
-
-
-
- r
- s
- asg
- sz
- hzx
- b
- zxndff
- nzf
- b
- fb
- hsf
- b\b
- \
- b\
- bsf
- h
- fheeha
- h
- d
- h
- h
- d
- sdf
- h
- adh
- atdh
- at
- heteh
- nn
- dg
- a
- dgh
-
- hsf
- hh
- df
- hf
- hh
- dhh
- df
- hf
- hf
- fggfsnryhgfusbduybaskjhA SuvYBSHBCPIAHFIUasgCCUYBVUUbasU zxuxCDVIegfuy87CGYQYCIgvjajhj  uyvbijn nibibvh y viyqbygFJ DDBVIigKJJ V8hv hidbvoiahoçO IYIGYWEEJF  96FWEW IUUOU  WFUU UYEFOIUQWGIU  H YGIUQFOOQHW99QWQHQEEF IUIUEUGFUDWHLOliusHKJuHJdouDHOIgliuhWELNELU LIhUHÇddnODOHIWIdbvvDFIFYGEIAHBaygwewiyfLSBCIYShffijqwq qlifboqeiufhq  epufluhgk  h iyyflhbiuHE Çffoqhff  qhuefouGOFFHQOuu IUEEFOIUGFOIQUHFPIU  EF LFFP  9EFIUEHFUqego86qpiuiEFPIUIegiwgefuehf977yqeefou  qge9ybd kusbeouEGILGSDSYFTadWDGFP66ta87YGFB iwefbwgpiUBWF Lffliuegf  weuf uwegfiiueGFBVV WEWIEG  237F  WE VJCTZHUHEECJF GSSYGWFYGWEEBVDHRHGGASDPueufp g\uzUFO8e
+Usuarios que tem a maquina windows vão interagir com o terminal e rodar alguns comandos de forma diferente,
+de usuarios qeu tem sistemas operacionais Unix e like, ou seja, sistemas operacuonais derivados do unix ou sejam eles linux,
+ou o sistema operacional da Apple. Então nós temos alguns diferentes comandos e isso tem a ver com a maneira que o terminal é.
+Então o terminal do windows derivado do shell, e o terminal do linux e derivado do bash.
+então são conjuntos de comandos diferentes, temos alguns exemplos de comandos:
+windows                                                        unix
+cd- entra em um repositorio/pasta.                             cd- entra dentro de uma pasta/repositorio.
+dir- lista o que tem dentro da pasta.                          ls- lista o que tem dentro da pasta.
+mkdir- cria um repositorio/pasta.                              mkdir- cria uma pasta/repositorio.
+del/rmdir- apaga um repositorio ou oque tem dentro dele.       rm-rf-apagar uma pasta.
+e para limpar a tela e cls.                                    É para limpar a tela e cleas.
+git init- para poder inicializa-lo e possibilitar que o git começe de fato a gerencionar e a vercionar o nosso codigo.
+git add- e usada para adicionar conteudo de um arquivo local ou indice ou straging area.
+git commit- captura um istataneo das mudanças preparadas do projeto do momento.
+git push- é usado para grava em um repositorio remoto.
